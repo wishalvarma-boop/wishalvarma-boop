@@ -11,7 +11,7 @@ I don't focus on syntax; I focus on **execution**. I use AI-native workflows to 
 ### 🛠️ Current Builds
 I specialize in shipping end-to-end solutions by managing complex AI-driven development cycles.
 
-* **[Goldrush Challenge Simulator](https://github.com/wishalvarma-boop/goldrush-challenge-simulator)** *A finished product project built to simulate and solve specific challenge logic.*
+* **[Goldrush Challenge Simulator](https://github.com/wishalvarma-boop/goldrush-challenge-simulator)** *A product project built to simulate and solve specific challenge logic.*
 * **[Particle Wave Nexus](https://github.com/wishalvarma-boop/particle-wave-nexus)** *A growth service infrastructure designed for scale and connectivity.*
 
 ---
