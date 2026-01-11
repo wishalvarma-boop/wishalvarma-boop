@@ -13,7 +13,7 @@ I specialize in shipping end-to-end solutions by managing complex AI-driven deve
 
 * **[Goldrush Challenge Simulator](https://github.com/wishalvarma-boop/goldrush-challenge-simulator)** *A product project built to simulate and solve specific challenge logic.*
 * **[Particle Wave Nexus](https://github.com/wishalvarma-boop/particle-wave-nexus)** *A growth service infrastructure designed for scale and connectivity.*
-* * **[WishallAI](https://github.com/wishalvarma-boop/wishall-ai)** *A personalized AI platform for Business Owners.*
+* * **[WishallAI](https://github.com/wishalvarma-boop/wishallai)** *A personalized AI platform for Business Owners.*
 
 ---
 
